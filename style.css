@@ -1,0 +1,73 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+nav img{
+ width:20px;
+}
+.navbar-brand img{
+ width: 50px;
+}
+li{
+ width: 100%;
+}
+.all,nav{
+  background-color: gray;
+}
+.btn{
+ background-color: tomato;
+}
+.line{
+ height: 2px;
+ width: 30%;
+ background-color: tomato;
+}
+i{
+ color: tomato;
+}
+.im{
+ transition: transform .5s ease;
+}
+.im:hover{
+ transform: translateY(-10px);
+}
+.back{
+  background-color: bisque;
+  height: 300px;
+}
+.shoes img{
+  transition: transform .5s ease;
+}
+.shoes img:hover{
+  transform: scale(1.1);
+}
+.watch{
+  background-color: gray;
+}
+
+
+.sec .col-lg-3{
+ transition: transform .5s ease;
+}
+.sec .col-lg-3:hover{
+  transform: translateY(-10px);
+}
+.brand img{
+  filter: grayscale(100%);
+}
+.brand img:hover{
+  filter: grayscale(0%);
+}
+.sec1 img{
+  width: 100px;
+}
+.sec1{
+  padding: 60px;
+  padding-bottom: 60px;
+}
+.navbar{
+  height:;
+}
+.navbar-brand{
+  width: 200px;
+}
